@@ -11,6 +11,7 @@ namespace DoesItWork
         static void Main(string[] args)
         {
             Console.WriteLine("Is it working?");
+            Console.WriteLine("maybe");
         }
     }
 }
